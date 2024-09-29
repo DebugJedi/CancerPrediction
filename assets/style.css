@@ -1,0 +1,36 @@
+.st-emotion-cache-12w0qpk {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #a38e9e;
+}
+
+.diagnosis {
+    color: #0000FF;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.diagnosis.benign_cls {
+    background-color: #FFFF00;
+
+}
+
+.diagnosis.malignant_cls {
+    background-color: #C30010;
+}
+
+.st-emotion-cache-m28ouz {
+    color: #FFFF00 ;
+}
+
+.stSidebar {
+    background-color: #1a1f36
+}
+
+.stSliderTickBar {
+    color: aliceblue;
+}
+
+.st-emotion-cache-m28ouz {
+    color: aliceblue;
+}
