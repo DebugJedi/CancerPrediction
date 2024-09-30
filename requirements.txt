@@ -1,0 +1,8 @@
+pandas 
+torch
+sklearn
+joblib
+pickle
+streamlit
+numpy
+plotly
