@@ -23,7 +23,7 @@ def add_sidebar():
         firstpart = " ".join(split[:-1])
         categories.append(firstpart)
         slider_name = str(firstpart + " ("+split[-1]+")")
-        label = (slider_name, col)
+        label = (slider_name.title(), col)
         slider_label.append(label)
     input_dict = {}
     for label, key in slider_label:
