@@ -1,8 +1,6 @@
 pandas 
 torch
 scikit-learn
-joblib
-pickle
 streamlit
 numpy
 plotly
