@@ -1,6 +1,6 @@
 pandas 
 torch
-sklearn
+scikit-learn
 joblib
 pickle
 streamlit
