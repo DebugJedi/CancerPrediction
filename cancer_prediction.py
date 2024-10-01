@@ -141,8 +141,8 @@ def main():
     # st.write(set(categories))
     with st.container():
         st.title("Breast Cancer Predictor")
-        st.write("This app predicts using a neural network model whether the breast mass is benign or malignant based on the measurements. \n",
-                 "You can update the measurements using the slideers in the sidebar.")
+        st.write("This app predicts using a neural network model whether the breast mass is benign or malignant based on the measurements.")
+        st.write("You can update the measurements using the slideers in the sidebar.")
 
         col1, col2= st.columns([3,1])
 
