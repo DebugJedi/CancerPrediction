@@ -119,8 +119,8 @@ def add_prediction(input_data):
         st.write("The probability of being malignanat: ","\n", round(outputs.item(),2))
     else:
         st.write("<span class='diagnosis malignant_cls'>Malignant</span>",unsafe_allow_html=True)
-        st.write("The probability of being benign: ", round(1.00 - outputs.item(),2))
-        st.write("The probability of being malignanat: ", round(outputs.item(),2))
+        st.write("The probability of being benign: ","\n", round(1.00 - outputs.item(),2))
+        st.write("The probability of being malignanat: ","\n", round(outputs.item(),2))
     
 
 def main():
