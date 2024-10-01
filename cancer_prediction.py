@@ -127,7 +127,7 @@ def main():
 
     st.set_page_config(
         page_title= "Breast Cancer Prediction",
-        page_icon= ":doctor:",
+        page_icon= ":material/:doctor:",
         layout="wide",
         initial_sidebar_state="expanded"
     )
