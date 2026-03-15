@@ -1,1 +1,24 @@
 .DS_Store
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+local.settings.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts (optional — remove if you want to commit them)
+# *.pkl
+# *.joblib
